@@ -1,6 +1,9 @@
 # CMSC-126-LAB-
 
 Designed an entire Website using Front-End and Back-End Development + Database to create a Personal Portfolio Website for the users to easily identify the featured developer's skills and interests.
+Frontend :  HTML CSS JavaScript
+Backed :  Flask, SQL (mariaDB), PHP  
+      Database ran using XAMPP
 
 YT Video for SPRINT 1 Scrum Video Discussion
 https://www.youtube.com/watch?v=JhuKAcLkETc
